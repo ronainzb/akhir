@@ -1,0 +1,38 @@
+body {
+  background-image: url('https://awsimages.detik.net.id/community/media/visual/2019/12/06/d55e50e5-a18e-4960-9051-48d3d0a46cac.jpeg?w=700&q=90.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr{background-color: #07353e}
+
+th {
+  background-color: #040047;
+  color: rgb(32, 96, 0);
+}
+button {
+  background-color: #3d0076;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button2 {background-color: #4CAF50; padding: 10px;}
+.button3 {background-color: #f44336; padding: 10px;}
+.button4 {border-radius: 12px;}
